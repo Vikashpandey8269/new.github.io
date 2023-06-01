@@ -1,0 +1,23 @@
+.print{
+    width: 600px;
+    height: 700px;
+    background-color:yellow;
+    
+    margin-left: 500px;
+   
+}
+
+.print input[type='text']{
+
+    padding:10px 30px;
+    margin-left: 30%;
+    margin-top: 40%;
+    border-radius: 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ 
+ 
+}
+p{
+    margin-left: 30%;
+    text-align: justify;
+}
