@@ -1,0 +1,22 @@
+button{
+    
+    margin-left: 600px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color:rgba(0, 0, 0,.6);
+    border: 2px solid salmon;
+    color: rgb(110, 240, 240);
+}
+button:hover{
+    background-color:rgba(222, 184, 135,0.5);
+    border: 3px solid blue;
+    color: red;
+}
+#container{
+    margin-top: 300px;
+    margin-left: 600px;
+    width: 200px;
+    font-size: 30px;
+    
+  
+}
