@@ -17,12 +17,14 @@ body{
     position: absolute;
     cursor: pointer;
     top:45%; 
-    background-color: rgba(205, 189, 189, 0.447);
+    background-color: rgba(220, 12, 22, 0.879);
     padding:8px;
     border-radius: 30%;
+    
 }
 .next{
     right:10px
+    
 }
 .prev{
     left:10px;

@@ -1,0 +1,33 @@
+
+
+select{
+    width: 80px;
+    border: 2px solid black;
+}
+option{
+    width: 100px;
+    height: 50px;
+}
+
+.red{
+    background-color: red;
+
+}
+.green{
+background-color: green;
+}
+.blue{
+background-color: blue;
+}
+.yellow{
+background-color: yellow;
+}
+.white{
+background-color: white;
+}
+.voilet{
+background-color: violet;
+}
+.orange{
+    background-color: orange;
+}
