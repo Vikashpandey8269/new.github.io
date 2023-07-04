@@ -1,3 +1,5 @@
+// exercise 1
+
 function addData(){
     var first_Name = document.getElementById('first').value;
     var LAST_Name = document.getElementById('last').value;
@@ -19,3 +21,15 @@ function addData(){
     localStorage.countryName = country_Name;
     localStorage.cityName = city_Name;
 }
+
+//exercise 2
+
+const student = {
+    firstName : "Vikash",
+    lastNam : "pandey",
+    roll:21,
+    country:'india',
+}
+
+student_JSON = JSON.stringify(student)
+localStorage.setItem('student',student_JSON)
